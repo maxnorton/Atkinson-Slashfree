@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1546336848
-ModificationTime: 1702586643
+ModificationTime: 1702590178
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -3957,7 +3957,7 @@ ShortTable: maxp 16
   2
   2
 EndShort
-LangName: 1033 "+AKkA 2020 Braille Institute of America, Inc., a 501(c)(3) Charitable Organization." "" "" "" "" "Version 1.002" "" "" "Applied Design Works" "Elliott Scott, Megan Eiswerth, Linus Boman, Theodore Petrosky" "Atkinson Hyperlegible is a neo-grotesque typeface created by Applied Design Works for Braille Institute of America, Inc. It has been developed specifically to increase legibility for readers with low vision, and to improve character recognition. " "https://www.BrailleInstitute.org/" "http://helloapplied.com" "Braille Institute of America, Inc. provides Atkinson Hyperlegible for use, without derivatives or alteration, to the public free of charge for all non-commercial and commercial work. No attribution required." "https://www.BrailleInstitute.org/"
+LangName: 1033 "+AKkA 2020 Braille Institute of America, Inc., a 501(c)(3) Charitable Organization." "" "" "" "" "Version 1.0.1" "" "" "" "" "" "" "" "Braille Institute of America, Inc. provides Atkinson Hyperlegible for use, without derivatives or alteration, to the public free of charge for all non-commercial and commercial work. No attribution required." "https://github.com/maxnorton/Atkinson-Slashfree/blob/12c07bb857a2127b69cc6d7882f932dadd839f28/Atkinson-Hyperlegible-Font-License-2020-1104.pdf"
 GaspTable: 2 7 10 65535 15 1
 Encoding: UnicodeBmp
 UnicodeInterp: none
@@ -3965,7 +3965,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 27 11
+WinInfo: 54 27 11
 BeginPrivate: 0
 EndPrivate
 Grid
